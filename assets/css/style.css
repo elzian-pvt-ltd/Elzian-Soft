@@ -898,7 +898,7 @@ input:-ms-input-placeholder {
 }
 .project-item .project-photo{
     min-height:152px;
-    max-width:160px;
+    max-width:150px;
     display:block;
     overflow:hidden;
 }
