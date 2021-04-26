@@ -588,7 +588,7 @@ input:-ms-input-placeholder {
 }
 .navbar-default .navbar-nav>li>a {
     color: white;
-    font-size:14px;
+    font-size:13px;
     text-transform:uppercase;
     font-weight:600;
 }
@@ -600,11 +600,11 @@ input:-ms-input-placeholder {
     font-size:12px;
     font-weight:600;
     color: white;
-    margin-right:14px;
+    margin-right:10px;
 }
 
 .menu-bg{
-    background: #c9302c;
+    background: #d4050f;
     padding:10px 0;
 }
 
@@ -612,7 +612,7 @@ input:-ms-input-placeholder {
 /*Home Page Style*/
 
 #home{
-    background-color: #c9302c;
+    background: url('../images/header-background.jpg') center center no-repeat;
     color:#fff;
 }
 .homepage-style{

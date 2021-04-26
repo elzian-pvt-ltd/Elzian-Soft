@@ -10,7 +10,10 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
     body {
         font-size: 15px;
     }
-	
+	#home {
+		background: url('../images/header-background.jpg') center center no-repeat;
+		background-size: cover;
+	}
     
 
 }
@@ -20,8 +23,11 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
     html {
         font-size: 90%;
     }
-   
 
+	#home {
+		background: url('../images/header-background.jpg') center center no-repeat;
+		background-size: cover;
+	}
 
 }
 /* Landscape phones and portrait tablets */
