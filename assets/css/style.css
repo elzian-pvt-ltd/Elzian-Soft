@@ -571,11 +571,11 @@ input:-ms-input-placeholder {
 .navbar-default {
     background-color:transparent;
     border:transparent;
-    padding-top: 70px;
+    padding-top: 50px;
 }
 
 .navbar {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     border: 1px solid transparent;
 }
 
