@@ -587,7 +587,7 @@ input:-ms-input-placeholder {
     color:#fff;
 }
 .navbar-default .navbar-nav>li>a {
-    color:#464646;
+    color: white;
     font-size:14px;
     text-transform:uppercase;
     font-weight:600;
@@ -599,12 +599,12 @@ input:-ms-input-placeholder {
 .contact-number{
     font-size:12px;
     font-weight:600;
-    color:#464646;
+    color: white;
     margin-right:14px;
 }
 
 .menu-bg{
-    background:#ffc038;
+    background: #c9302c;
     padding:10px 0;
 }
 
@@ -612,7 +612,7 @@ input:-ms-input-placeholder {
 /*Home Page Style*/
 
 #home{
-    background-color:#ffc038;
+    background-color: #c9302c;
     color:#fff;
 }
 .homepage-style{
@@ -687,9 +687,9 @@ input:-ms-input-placeholder {
     color:#252525;
 }
 .portfolio .portfolio-item .pt-btn{
-    background:#ffc038;
+    background:#c9302c;
     padding:18px 40px;
-    color:#464646;
+    color: white;
     font-weight:bold;
     text-transform:uppercase;
     transition:.5s;
@@ -726,13 +726,13 @@ input:-ms-input-placeholder {
     -ms-transition:.5s;
 } 
 .features-content.active{
-    background:#fbc73a;
+    background: #c9302c;
     color:#000;
 
 
 }
 .features-content:hover{
-    background:#fbc73a;
+    background: #c9302c;
     color:#000;
 }
 .features-content.active i{
@@ -769,7 +769,7 @@ input:-ms-input-placeholder {
 }
 .main-package .package-item{
     padding:50px 0;
-    border:1.5px solid #ffc038;
+    border:1.5px solid #c9302c;
 }
 .main-package .package-item.basic {
 
@@ -799,29 +799,29 @@ input:-ms-input-placeholder {
     padding: 15px 44px;
 }
 .package-item.standard .pkg-btn a:hover{
-    background:#ffc038;
+    background: #c9302c;
     color:#fff;
 }
 .package-item.premium h5{
 
-    color:#ffc038;
+    color: #c9302c;
 }
 .package-item.premium ul li{
     color:#b3b3b3;
 }
 
 .package-item.premium .package-bottom-area h3{
-    color:#ffc038;
+    color: #c9302c;
     font-weight:600;
 }
 
 .package-item.premium .package-bottom-area h3 span{
-    color:#ffc038;
+    color: #c9302c;
     font-weight:normal;
 }
 
 .package-item.premium .pkg-btn a{
-    background:#ffc038;
+    background: #c9302c;
 }
 
 .package-bottom-area h3{
@@ -846,7 +846,7 @@ input:-ms-input-placeholder {
 
 
 .main-package .package-item ul li{
-    border-bottom:1.5px solid #ffd06c;
+    border-bottom:1.5px solid #c9302c;
     font-size:16px;
     padding:10px 0;
 }
@@ -869,7 +869,7 @@ input:-ms-input-placeholder {
 }
 .main-history .history-content .hst-btn button{
     border-radius:0;
-    background:#ffc038;
+    background:#c9302c;
     color:#333;
     font-size:12px;
     font-weight:500;
@@ -913,7 +913,7 @@ input:-ms-input-placeholder {
 /*Our Team Area*/
 
 .project-bg{
-    background-color:#ffc038;
+    background-color:#c9302c;
     padding:60px 0 30px 0;
 }
 .team-member{
@@ -938,7 +938,7 @@ input:-ms-input-placeholder {
     margin-bottom:30px;
 }
 .supports-content .spt-btn button{
-    background: #ffc038;
+    background: #c9302c;
     padding: 15px 30px;
     color: #464646;
     font-size: 12px;
@@ -959,8 +959,7 @@ input:-ms-input-placeholder {
 
 .hire-content{
     background: url(../images/hire-us.png) no-repeat center top scroll;
-    background-size
-    -moz-background-size: cover;
+    background-size-moz-background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
@@ -976,7 +975,7 @@ input:-ms-input-placeholder {
     position:relative;
 }
 .creative-works{
-    background:#ffc038;
+    background: #c9302c;
     position:absolute;
     width:100%;
     bottom:0;
@@ -1039,7 +1038,7 @@ input:-ms-input-placeholder {
     text-align:center;
 }
 .socio-copyright .social a i{
-    background:#ffc038;
+    background:red;
     border-radius:2px;
     height:35px;
     width:35px;
@@ -1048,7 +1047,7 @@ input:-ms-input-placeholder {
     padding-top:11px;
 }
 .socio-copyright .social a:hover i{
-    background:#ff931f;
+    background:red;
     color:#333;
 }
 .socio-copyright p{
@@ -1067,7 +1066,7 @@ input:-ms-input-placeholder {
     text-align: center;
     color: #fff;
     font-size: 30px;
-    background: #ffc038;
+    background: red;
     position: fixed;
     bottom: 30px;
     right: 50px;
@@ -1077,7 +1076,7 @@ input:-ms-input-placeholder {
     cursor:pointer;
 }
 .scrollup:hover{
-    background: #de9800;
+    background: red;
     color: #fff;
     transform:scale(1.1);
-}	
+}
