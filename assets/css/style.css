@@ -775,6 +775,12 @@ input:-ms-input-placeholder {
 
     color:#b3b3b3;
 }
+
+.main-package .package-item.basic h3 {
+
+    font-weight:600;
+    color:#b3b3b3;
+}
 .main-package .package-item.standard h5{
 
     color:#f26c4f;
@@ -788,7 +794,6 @@ input:-ms-input-placeholder {
 .package-item.standard .package-bottom-area h3{
     color:#f26c4f;
     font-weight:600;
-    font-size: 50px;
     margin-top: -4px;
 }
 .package-item.standard .package-bottom-area h3 span{
